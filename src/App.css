@@ -47,3 +47,7 @@ input[type="text"]:focus {
 input::placeholder {
   color: #aaa;
 }
+
+p {
+  color: #333;
+}
